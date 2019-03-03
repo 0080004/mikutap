@@ -1,4 +1,4 @@
-# mikutap
+# mikutap [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap  
    
 ![](https://i.loli.net/2017/12/23/5a3e0812758da.gif)  

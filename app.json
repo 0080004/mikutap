@@ -1,9 +1,9 @@
 {
-  "name": "IPinfo",
-  "description": "IPinfo[Written in PHP]",
-  "website": "https://github.com/helloxz/IPinfo",
-  "repository": "https://github.com/helloxz/IPinfo",
-  "success_url": "index.php",
+  "name": "mikutap",
+  "description": "mikutap",
+  "website": "https://github.com/0080004/mikutap",
+  "repository": "https://github.com/HFIProgramming/mikutap",
+  "success_url": "index.html",
   "env":{
   }
 }
